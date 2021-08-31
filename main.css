@@ -34,12 +34,13 @@ h3 {
     font-size: 18px;
 }
 
-h2, h5, h6 {
+h2 {
     color: #222;
     font-weight: 500;
     line-height: 1.2;
     font-size: 22px;
     font-style: italic;
+    text-decoration: underline;
 }
 
 h4 {
